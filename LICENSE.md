@@ -1,4 +1,4 @@
-#  
+#  Obsidian for macOS elite Script: offline access & reminders is the best Obsidian for macOS script, featuring offline access and reminders. Safe, efficient, and optimized for macOS
 
 
 
